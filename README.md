@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzureSeungho
-- 👀 I’m interested in JAVA, HTML 5, CSS
-- 🌱 I’m currently learning JS, JSP
+- 👀 I’m interested in JAVA, HTML 5, CSS,Spring,Oracle..
+- 🌱 I’m currently learning Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
